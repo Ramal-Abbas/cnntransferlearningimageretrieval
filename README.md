@@ -50,3 +50,14 @@ Non-trainable params: 320 (1.25 KB)
 Total params: 40932163 (156.14 MB)
 Trainable params: 26217475 (100.01 MB)
 Non-trainable params: 14714688 (56.13 MB)
+
+
+
+### Drive Links for Supporting files and folders ###
+
+
+**Dataset:** https://drive.google.com/drive/folders/10OA_Hsl_ZeqH4ljJI68km3TJPUqTyWnj?usp=sharing
+
+**AlexNet Trained Model:** https://drive.google.com/file/d/1ueZZiMrEjTBydrVJfhDsJj7Nia1iOEHA/view?usp=sharing
+
+**VGG16 Trained Model:** https://drive.google.com/file/d/1-BYJTf2ClZK7S-kDj34AmdI1xAO0D6Tv/view?usp=sharing
